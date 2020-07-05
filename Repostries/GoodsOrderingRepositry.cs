@@ -30,7 +30,7 @@ namespace smartLiving.Repostries
         public async Task<object> delete(string id)
         {
 
-            return true;
+            return flase;
         }
 
         public async Task<object> insert(object obj)
